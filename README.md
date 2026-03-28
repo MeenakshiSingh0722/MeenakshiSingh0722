@@ -1,14 +1,139 @@
-💫 About Me:
-<br>Profile Header<br>Name: Meenakshi Singh<br><br>Headline: 3rd Year B.Tech Student | Computer Science & Engineering | Data Science & Machine Learning Enthusiast<br><br>Location: Lucknow, India<br><br>1. About Me<br>Academic Background: Currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering at the University of Lucknow.<br><br>Academic Standing: Maintaining a strong CGPA of 8.85/10.00, reflecting a dedicated focus on core engineering and analytical concepts.<br><br>Mission: Passionate about leveraging data-driven insights to solve complex problems. I specialize in Python-based development and am actively exploring the intersection of Computer Vision and Data Analytics.<br><br>2. Technical Skills<br>Languages: Python (Advanced), Java, C, and SQL.<br><br>Data Science & AI: Pandas, NumPy, and AI Model Training.<br><br>Tools & Technologies: Computer Vision (OpenCV), Data Management Systems, and GitHub for version control.<br><br>Specializations: Data Analytics methodologies, Forensic Data Tech, and Real-time System Integration.<br><br>3. Featured Projects<br>Face Attendance System: Developed a real-time detection system using Python and Computer Vision, integrated with SQL for automated data logging and management.<br><br>Data Analytics Job Simulation (Forage): Completed a simulation focused on forensic data technology and analytical methodologies to derive actionable insights.<br><br>Python Logic & Utility Suite: A collection of mini-projects including a calculator with a history function and a difficulty-based password-guessing game, demonstrating clean code and logic design.<br><br>4. Experience & Training<br>AI Model Training (UN Technologies): Completed an intensive Summer Training Program (June – July 2025) focused on the end-to-end process of training AI models.<br><br>Professional Development: Highly active in the "Build in Public" community on LinkedIn, documenting technical projects and sharing insights on Machine Learning.<br><br>5. Current Focus & Goals<br>Currently Learning: Advanced Machine Learning algorithms and Deep Learning frameworks.<br><br>Future Aspirations: Aspiring to contribute to high-impact research fellowships (like those at IITs) in the fields of Data Science and Artificial Intelligence.<br><br>Open to: Collaborating on Open Source Data Science projects or AI-driven software development.<br><br>6. Let's Connect<br>LinkedIn: [Your Profile Link]<br><br>Portfolio: [Your GitHub Repositories]
+<h1 align="center">Hi 👋, I'm Meenakshi Singh</h1>
+<h3 align="center">🚀 3rd Year B.Tech CSE Student | Data Science & ML Enthusiast</h3>
 
-🌐 Socials:
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
-💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MeenakshiSingh0722&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MeenakshiSingh0722&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeenakshiSingh0722&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Explorer;Machine+Learning+Enthusiast;Python+Developer;Open+Source+Learner&center=true&width=500&height=45">
+</p>
+
 ---
-![](https://visitcount.itsvg.in/api?id=MeenakshiSingh0722&icon=0&color=0)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 💫 About Me
+🎓 B.Tech in Computer Science & Engineering (3rd Year)  
+📍 Lucknow, India  
+
+✨ Maintaining a strong **CGPA: 8.85/10**  
+📊 Passionate about **Data Science, Machine Learning & Computer Vision**  
+💡 Love building real-world solutions using **Python & AI**  
+
+---
+
+## 🚀 Mission
+> Turning **data into meaningful insights** and solving real-world problems through AI & analytics.
+
+---
+
+## 🧠 Technical Skills
+
+### 💻 Languages
+`Python` 🐍 | `Java` ☕ | `C` ⚙️ | `SQL` 🗄️  
+
+### 📊 Data Science & AI
+- Pandas  
+- NumPy  
+- Machine Learning  
+- AI Model Training  
+
+### 🛠 Tools & Technologies
+- OpenCV (Computer Vision)  
+- Data Management Systems  
+- Git & GitHub  
+
+### 🎯 Specializations
+- Data Analytics  
+- Forensic Data Technology  
+- Real-time Systems  
+
+---
+
+## 🌟 Featured Projects
+
+### 👁️ Face Attendance System
+🔹 Real-time face detection using **Computer Vision**  
+🔹 Integrated with **SQL database**  
+🔹 Automated attendance logging  
+
+---
+
+### 📊 Data Analytics Job Simulation (Forage)
+🔹 Worked on forensic data techniques  
+🔹 Derived actionable insights using analytics  
+
+---
+
+### 🧮 Python Logic & Utility Suite
+🔹 Calculator with history  
+🔹 Password guessing game  
+🔹 Clean logic & modular design  
+
+---
+
+## 🏆 Experience & Training
+
+🎯 **AI Model Training – UN Technologies**  
+📅 June – July 2025  
+- End-to-end AI model training  
+- Practical exposure to ML workflows  
+
+🌐 Active in **Build in Public** (LinkedIn)  
+- Sharing projects  
+- Documenting learning journey  
+
+---
+
+## 🎯 Current Focus
+
+📚 Learning:
+- Advanced Machine Learning  
+- Deep Learning  
+
+🚀 Goals:
+- Research fellowships (IITs)  
+- High-impact AI projects  
+
+🤝 Open to:
+- Open Source Collaboration  
+- Data Science Projects  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeenakshiSingh0722&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MeenakshiSingh0722&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeenakshiSingh0722&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ✨ Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=MeenakshiSingh0722&icon=5&color=6" />
+</p>
+
+---
+
+## 💬 Quote
+> “Code. Learn. Build. Repeat. 🚀”
+
+---
