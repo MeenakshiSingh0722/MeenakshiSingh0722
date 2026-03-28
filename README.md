@@ -1,139 +1,35 @@
-<h1 align="center">Hi 👋, I'm Meenakshi Singh</h1>
-<h3 align="center">🚀 3rd Year B.Tech CSE Student | Data Science & ML Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Meenakshi+Singh;Data+Science+Enthusiast+💻;Machine+Learning+Explorer+🤖;Python+Developer+🐍" />
+</h1>
+
+<h3 align="center">✨ B.Tech CSE (3rd Year) | AI & Data Science Explorer | Future Innovator 🚀</h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Explorer;Machine+Learning+Enthusiast;Python+Developer;Open+Source+Learner&center=true&width=500&height=45">
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Data%20Science-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Lucknow,%20India-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.85/10-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
 
-## 💫 About Me
-🎓 B.Tech in Computer Science & Engineering (3rd Year)  
-📍 Lucknow, India  
+## 🌈 About Me
 
-✨ Maintaining a strong **CGPA: 8.85/10**  
-📊 Passionate about **Data Science, Machine Learning & Computer Vision**  
-💡 Love building real-world solutions using **Python & AI**  
+<img align="right" height="150" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
----
-
-## 🚀 Mission
-> Turning **data into meaningful insights** and solving real-world problems through AI & analytics.
+💖 Passionate about **Data Science & Machine Learning**  
+🎓 B.Tech CSE Student (3rd Year)  
+📊 Strong academic performer (CGPA: 8.85)  
+💡 Love building **real-world AI solutions**  
+🔥 Exploring **Computer Vision + Data Analytics**
 
 ---
 
-## 🧠 Technical Skills
+## 🚀 What I Do
 
-### 💻 Languages
-`Python` 🐍 | `Java` ☕ | `C` ⚙️ | `SQL` 🗄️  
-
-### 📊 Data Science & AI
-- Pandas  
-- NumPy  
-- Machine Learning  
-- AI Model Training  
-
-### 🛠 Tools & Technologies
-- OpenCV (Computer Vision)  
-- Data Management Systems  
-- Git & GitHub  
-
-### 🎯 Specializations
-- Data Analytics  
-- Forensic Data Technology  
-- Real-time Systems  
-
----
-
-## 🌟 Featured Projects
-
-### 👁️ Face Attendance System
-🔹 Real-time face detection using **Computer Vision**  
-🔹 Integrated with **SQL database**  
-🔹 Automated attendance logging  
-
----
-
-### 📊 Data Analytics Job Simulation (Forage)
-🔹 Worked on forensic data techniques  
-🔹 Derived actionable insights using analytics  
-
----
-
-### 🧮 Python Logic & Utility Suite
-🔹 Calculator with history  
-🔹 Password guessing game  
-🔹 Clean logic & modular design  
-
----
-
-## 🏆 Experience & Training
-
-🎯 **AI Model Training – UN Technologies**  
-📅 June – July 2025  
-- End-to-end AI model training  
-- Practical exposure to ML workflows  
-
-🌐 Active in **Build in Public** (LinkedIn)  
-- Sharing projects  
-- Documenting learning journey  
-
----
-
-## 🎯 Current Focus
-
-📚 Learning:
-- Advanced Machine Learning  
-- Deep Learning  
-
-🚀 Goals:
-- Research fellowships (IITs)  
-- High-impact AI projects  
-
-🤝 Open to:
-- Open Source Collaboration  
-- Data Science Projects  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,git,github,tensorflow" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeenakshiSingh0722&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MeenakshiSingh0722&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeenakshiSingh0722&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ✨ Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MeenakshiSingh0722&icon=5&color=6" />
-</p>
-
----
-
-## 💬 Quote
-> “Code. Learn. Build. Repeat. 🚀”
-
----
+```diff
++ Build AI/ML Projects
++ Analyze Data & Extract Insights
++ Work with Computer Vision
++ Solve Real-world Problems
