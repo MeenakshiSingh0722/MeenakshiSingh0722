@@ -1,40 +1,43 @@
 <h1 align="center">Hi 👋, I'm Meenakshi Singh</h1>
-<h3 align="center">🚀 Machine Learning Enthusiast | Data Science Explorer</h3>
+<h3 align="center">🚀 Aspiring Machine Learning Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
-  💡 Turning Data into Insights | 🤖 Building AI Solutions
+  Transforming data into meaningful insights 📊 | Building intelligent solutions 🤖
 </p>
 
 ---
 
 ### 🌟 About Me
-- 💖 Passionate about Data Science & Machine Learning  
+I am a B.Tech Computer Science student with a strong interest in Machine Learning and Data Science.  
+I enjoy working on real-world problems and transforming raw data into actionable insights.  
+
 - 🎓 B.Tech CSE (3rd Year)  
-- 📊 Strong academic performance (CGPA: 8.85)  
-- 🚀 Love building real-world AI solutions  
-- 🔍 Exploring Computer Vision & Data Analytics  
+- 📊 CGPA: 8.85/10  
+- 🤖 Focused on Machine Learning & Data Analytics  
+- 🔍 Exploring Computer Vision and AI applications  
+- 🚀 Passionate about building impactful, data-driven solutions  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 - **Languages:** Python, SQL  
-- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn  
-- **Tools:** Git, GitHub, Jupyter Notebook  
+- **Libraries & Tools:** NumPy, Pandas, Matplotlib, Scikit-learn  
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook  
 
 ---
 
 ### 🚀 What I Do
-✔ Build AI/ML Projects  
-✔ Analyze Data & Extract Insights  
-✔ Work with Computer Vision  
-✔ Solve Real-world Problems  
+- ✔ Develop Machine Learning models for practical use cases  
+- ✔ Perform data analysis and extract meaningful insights  
+- ✔ Build projects based on Computer Vision concepts  
+- ✔ Continuously learn and apply new technologies  
 
 ---
 
-### 📌 Featured Projects
-- 🔹 *Project 1* – Short description  
-- 🔹 *Project 2* – Short description  
-- 🔹 *Project 3* – Short description  
+### 📌 Projects
+- 🔹 Project Title – Brief description of the project  
+- 🔹 Project Title – Brief description of the project  
+- 🔹 Project Title – Brief description of the project  
 
 ---
 
@@ -46,18 +49,19 @@
 
 ---
 
-### 💻 Top Languages
+### 💻 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeenakshiSingh0722&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-- 💼 LinkedIn: (add your link)  
-- 📧 Email: (add your email)  
+### 📫 Connect With Me
+- 💼 LinkedIn: (Add your link)  
+- 📧 Email: (Add your email)  
 
 ---
 
-### ⚡ Fun Fact
-✨ I love turning complex data into simple insights!
+### ⚡ Personal Note
+I believe consistency and curiosity are the keys to mastering technology.  
+Currently focused on strengthening my skills and building impactful AI projects.
