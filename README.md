@@ -57,8 +57,8 @@ I enjoy working on real-world problems and transforming raw data into actionable
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: (Add your link)  
-- 📧 Email: (Add your email)  
+- 💼 LinkedIn: 
+- 📧 Email: 
 
 ---
 
