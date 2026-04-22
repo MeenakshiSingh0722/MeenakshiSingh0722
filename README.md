@@ -57,7 +57,7 @@ I enjoy working on real-world problems and transforming raw data into actionable
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/meenakshi-singh12
 - 📧 Email: meenakshisingh0722@gmail.com
 
 ---
