@@ -64,4 +64,4 @@ I enjoy working on real-world problems and transforming raw data into actionable
 
 ### ⚡ Personal Note
 I believe consistency and curiosity are the keys to mastering technology.  
-Currently focused on strengthening my skills and building impactful AI projects.
+Currently focused on strengthening my skills and building impactful AI projects. :)
